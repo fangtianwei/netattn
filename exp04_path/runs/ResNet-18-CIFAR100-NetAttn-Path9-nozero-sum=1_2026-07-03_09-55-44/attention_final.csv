@@ -1,0 +1,10 @@
+path_idx,bits,weight,path
+0,01111111,0.0017237603,L1.B0:Skip | L1.B1:Full | L2.B0:Full | L2.B1:Full | L3.B0:Full | L3.B1:Full | L4.B0:Full | L4.B1:Full
+1,10111111,0.00282111,L1.B0:Full | L1.B1:Skip | L2.B0:Full | L2.B1:Full | L3.B0:Full | L3.B1:Full | L4.B0:Full | L4.B1:Full
+2,11011111,0.0011163572,L1.B0:Full | L1.B1:Full | L2.B0:Skip | L2.B1:Full | L3.B0:Full | L3.B1:Full | L4.B0:Full | L4.B1:Full
+3,11101111,0.019697763,L1.B0:Full | L1.B1:Full | L2.B0:Full | L2.B1:Skip | L3.B0:Full | L3.B1:Full | L4.B0:Full | L4.B1:Full
+4,11110111,0.0002805032,L1.B0:Full | L1.B1:Full | L2.B0:Full | L2.B1:Full | L3.B0:Skip | L3.B1:Full | L4.B0:Full | L4.B1:Full
+5,11111011,0.004726176,L1.B0:Full | L1.B1:Full | L2.B0:Full | L2.B1:Full | L3.B0:Full | L3.B1:Skip | L4.B0:Full | L4.B1:Full
+6,11111101,0.005959094,L1.B0:Full | L1.B1:Full | L2.B0:Full | L2.B1:Full | L3.B0:Full | L3.B1:Full | L4.B0:Skip | L4.B1:Full
+7,11111110,0.011813295,L1.B0:Full | L1.B1:Full | L2.B0:Full | L2.B1:Full | L3.B0:Full | L3.B1:Full | L4.B0:Full | L4.B1:Skip
+8,11111111,0.951862,L1.B0:Full | L1.B1:Full | L2.B0:Full | L2.B1:Full | L3.B0:Full | L3.B1:Full | L4.B0:Full | L4.B1:Full

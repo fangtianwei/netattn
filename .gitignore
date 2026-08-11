@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.tmp
+/data/
+/tools/validate_paper_scope.py
